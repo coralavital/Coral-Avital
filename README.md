@@ -3,14 +3,13 @@
 </div>
 
 ### Hello 👋 I’m Coral !
-#### A passionate frontend developer from Israel
-♟️ I'm a chess player .
+#### A passionate developer from Israel
 
 💪 I love to write code.
 
 📚 Like to read books.
 
-Hi , I'm a passionate Full Stack Developer ( and Chess player ) with a strong desire to learn and grow.
+Hi , I'm a passionate Full Stack Developer with a strong desire to learn and grow.
 For both, I take advantage of every chance to get better, I am resourceful & focused, constantly seeking opportunities to get out of my comfort zone.
 
 ✔️ An expert in JavaScript , Angular and React
