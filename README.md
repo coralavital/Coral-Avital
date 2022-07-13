@@ -3,7 +3,6 @@
 </div>
 
 ### Hello 👋 I’m Coral !
-#### A passionate developer from Israel
 
 💪 I love to write code.
 
