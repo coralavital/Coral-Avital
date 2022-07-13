@@ -34,7 +34,6 @@ Available to work full-time .
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=coralavital)](https://git.io/streak-stats)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coralavital&show_icons=true&locale=en&layout=compact" alt="coralavital" /></p>
 
 
