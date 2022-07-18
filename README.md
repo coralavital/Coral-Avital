@@ -9,11 +9,11 @@
 📚 Like to read books.
 
 Hi , I'm a passionate Full Stack Developer with a strong desire to learn and grow.
-For both, I take advantage of every chance to get better, I am resourceful & focused, constantly seeking opportunities to get out of my comfort zone.
+I take advantage of every chance to get better, I am resourceful & focused, constantly seeking opportunities to get out of my comfort zone.
 
 ✔️ An expert in JavaScript , Angular and React
 
-✔️ Highly Experienced in Python , Java and C#
+✔️ Highly Experienced in Python , Java and C++
 
 Currently looking for a junior position as a Full Stack Developer / Software Engineer in the Central District of Israel.
 Available to work full-time .
