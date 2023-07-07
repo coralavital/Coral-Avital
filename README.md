@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-
-<h2 align="center">I'm Coral Avital</h2>
+<a align="center">I'm Coral Avital</a>
 <h3 align="center">Software Engineer</h3>
 
 ## 🌐 Socials:
