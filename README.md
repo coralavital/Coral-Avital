@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer</h3><br>
 
 ### Socials 🌐
-<p align="left"> <a href="https://www.linkedin.com/in/coralavital/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="arduino" width="50" height="20"/> </a>
-<p align="left">
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/coralavital/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="arduino" width="50" height="20"/> </a>
   <a href="https://my-cv-coralavital.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Portfolio-purple" alt="arduino" width="50" height="20"/> </a>
 </p>
 
